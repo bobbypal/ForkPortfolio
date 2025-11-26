@@ -1,4 +1,7 @@
-# Simple Bio
+Hi this is bobby here
+
+
+:# Simple Bio
 ## A starter template for beginners. 
 
 [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/SimpleBio?logo=github)](https://github.com/vinitshahdeo/SimpleBio/blob/master/LICENSE) [![GitHub forks](https://img.shields.io/github/forks/vinitshahdeo/SimpleBio?color=red&logo=github)](https://github.com/vinitshahdeo/SimpleBio/network) [![GitHub stars](https://img.shields.io/github/stars/vinitshahdeo/SimpleBio?logo=github)](https://github.com/vinitshahdeo/SimpleBio/stargazers)
